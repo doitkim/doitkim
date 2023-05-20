@@ -4,4 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doitkim&layout=compact&theme=tokyonight)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsh27214@gmail.com)](https://solved.ac/kimsh27214@gmail.com/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=solasera)](https://solved.ac/solasera)
