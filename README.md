@@ -3,3 +3,5 @@
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=doitkim&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doitkim&layout=compact&theme=tokyonight)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsh27214@gmail.com)](https://solved.ac/kimsh27214@gmail.com/)
